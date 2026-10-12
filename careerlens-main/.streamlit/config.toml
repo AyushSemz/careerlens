@@ -1,0 +1,9 @@
+[server]
+port = 7860
+address = "0.0.0.0"
+fileWatcherType = "none"
+maxUploadSize = 10
+enableXsrfProtection = false
+
+[theme]
+base = "dark"
